@@ -17,22 +17,25 @@ training and just wrapped my first CTF competition.
 | Scripting | Python, Bash |
 | Cryptography | liboqs, OQS-OpenSSL, NIST PQC (FIPS 203/204/205) |
 
-## Recent highlights
+## What I've been up to ⤵
 
-🥈 **Placed 2nd** at the FCS APIIT CTF Prelims — my first ever CTF, capturing 11/15
+**Placed 2nd** at the FCS APIIT CTF Prelims — my first ever CTF, capturing 11/15
 flags, which qualified my team for the Inter-University King of the Hill round
 
-📖 **In progress:** CEHv13 (Certified Ethical Hacker) training series
+**CTF Experience:** Network & Enumeration, Web Application Security, Reverse
+Engineering & PWN, Forensics & Steganography, Cryptography
 
-🧠 **Side interest:** exploring quantum cryptography. Shor's and Grover's algorithms,
+**In progress:** CEHv13 (Certified Ethical Hacker) training series
+
+**Side interest:** exploring quantum cryptography. Shor's and Grover's algorithms,
 and how post-quantum standards hold up in practice
 
-🏢 Head of Digital Operations at Perch.lk, a real estate marketing company
+Head of Digital Operations at Perch.lk, a real estate marketing company
 
-## Find me
+## Get in touch ⤵
 
 [https://www.linkedin.com/in/abdullahracip/](#) · [abdullah@perch.lk](#)
 
 ---
 
-<sub>Still learning, still breaking things (on purpose).</sub>
+<sub>Still learning, still breaking things (on purpose:).</sub>
