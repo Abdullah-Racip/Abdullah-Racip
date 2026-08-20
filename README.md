@@ -4,8 +4,8 @@
 
 I'm currently studying for a BSc (Hons) in Cyber Security at APIIT, affiliated with
 Staffordshire University. My interests sit at the intersection of offensive security,
-digital forensics, and post-quantum cryptography — right now I'm working through CEHv13
-training and just wrapped my first CTF competition.
+digital forensics, and post-quantum cryptography. I am currently working through CEHv13,
+with the goal of moving into a penetration testing or security analyst role.
 
 ## What I work with
 
