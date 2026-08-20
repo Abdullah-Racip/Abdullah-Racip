@@ -34,7 +34,7 @@ Head of Digital Operations at Perch.lk, a real estate marketing company
 
 ## Get in touch ⤵
 
-[https://www.linkedin.com/in/abdullahracip/](#) · [abdullah@perch.lk](#)
+[LinkedIn](https://www.linkedin.com/in/abdullahracip/) · [Email](mailto:abdullah@perch.lk)
 
 ---
 
