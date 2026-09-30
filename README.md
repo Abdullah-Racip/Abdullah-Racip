@@ -85,15 +85,23 @@ Service detection performed. Enjoy the recon.
 
 🔐 **Post-Quantum Cryptography** — how the NIST PQC standards (ML-KEM / FIPS 203, ML-DSA / 204, SLH-DSA / 205) hold up in practice, and why Shor's & Grover's break what they break.
 
+🛰️ **PCAP Sentinel** — a Python + `scapy` tool I built that triages a `.pcap` offline and flags SYN floods, port scans, ARP spoofing, DNS tunnelling and cleartext credentials — printing the packet-level *evidence* for each hit, not just the label.
+
 <div align="center">
 
 [![offensive-security-walkthroughs](https://img.shields.io/badge/offensive--security--walkthroughs-View_Repo-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdullah-Racip/offensive-security-walkthroughs)
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Abdullah-Racip/offensive-security-walkthroughs?style=for-the-badge&labelColor=0D1117&color=58A6FF)
 
+<br/>
+
+[![pcap-sentinel](https://img.shields.io/badge/pcap--sentinel-View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdullah-Racip/pcap-sentinel)
+&nbsp;
+![stars](https://img.shields.io/github/stars/Abdullah-Racip/pcap-sentinel?style=for-the-badge&labelColor=0D1117&color=58A6FF)
+
 </div>
 
-<!-- ═══════════════════════════════ CTF ══════════════════════════════════ -->
+<!-- ═══════════════════════════════ CTF ═════════════════════════════════ -->
 ## `> ./ctf --history`
 
 > **🥈 2nd place — FCS APIIT CTF Prelims** — my first ever CTF, **11/15 flags**, which qualified my team for the Inter-University **King of the Hill** round.
