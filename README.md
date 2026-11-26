@@ -43,6 +43,7 @@ PORT      STATE  SERVICE            VERSION
 443/tcp   open   https              Post-Quantum Cryptography Research
 445/tcp   open   forensics          Digital Forensics & Steganography
 8080/tcp  open   ops                Perch.lk: Digital Operations
+9200/tcp  open   detection          Detection Engineering: Suricata + Sigma
 
 Service detection performed. Enjoy the recon.
 ```
@@ -63,6 +64,12 @@ Service detection performed. Enjoy the recon.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Detection & Blue Team**
+&nbsp;
+![Suricata](https://img.shields.io/badge/Suricata-EF7F1A?style=flat-square&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-1F6FEB?style=flat-square&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-2E3440?style=flat-square&logo=gnometerminal&logoColor=white)
 
 **Scripting**
 &nbsp;
@@ -87,6 +94,8 @@ Service detection performed. Enjoy the recon.
 
 🛰️ **PCAP Sentinel**: a Python + `scapy` tool I built that triages a `.pcap` offline and flags SYN floods, port scans, ARP spoofing, DNS tunnelling and cleartext credentials, printing the packet-level *evidence* for each hit, not just the label.
 
+🛡️ **Detection Lab**: exploit-to-detection on the boxes I've rooted. I write my own PoC, capture the attack on the wire and in the target's logs, then build Suricata and Sigma rules and test them against real traffic. First up, DC-1 (Drupalgeddon2, CVE-2018-7600): **108/108 attack requests detected, 0 false positives**.
+
 <div align="center">
 
 [![offensive-security-walkthroughs](https://img.shields.io/badge/offensive--security--walkthroughs-View_Repo-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdullah-Racip/offensive-security-walkthroughs)
@@ -98,6 +107,12 @@ Service detection performed. Enjoy the recon.
 [![pcap-sentinel](https://img.shields.io/badge/pcap--sentinel-View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdullah-Racip/pcap-sentinel)
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Abdullah-Racip/pcap-sentinel?style=for-the-badge&labelColor=0D1117&color=58A6FF)
+
+<br/>
+
+[![detection-lab](https://img.shields.io/badge/detection--lab-View_Repo-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdullah-Racip/detection-lab)
+&nbsp;
+![stars](https://img.shields.io/github/stars/Abdullah-Racip/detection-lab?style=for-the-badge&labelColor=0D1117&color=58A6FF)
 
 </div>
 
